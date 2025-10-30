@@ -1,0 +1,31 @@
+[
+  {
+          "Student_ID":101,
+          "Name": "Aqber",
+          "Father_Name": "Ijaz_Ali",
+          "Course": "Artificial_Intellegence",
+          "Contact": "093829462",
+          "Gmail": "abc@gmailcom"
+      },
+  {        "Student_ID":102,
+          "Name": "Jahangir",
+          "Father_Name": "Ejaz",
+          "Course": "Grapghic_Designing",
+          "Contact": "093829662",
+          "Gmail": "abc@gmailcom"
+      },
+  {       "Student_ID":103,
+          "Name": "Hania",
+          "Father_Name": "Ali",
+          "Course": "Agentic_Ai",
+          "Contact": "093889462",
+          "Gmail": "abc@gmailcom"
+      },
+  {       "Student_ID":104,
+          "Name": "Rehana",
+          "Father_Name": "Ahmed",
+          "Course": "Digital_Marketing",
+          "Contact": "038299462",
+          "Gmail": "abc@gmailcom"
+      }
+]
