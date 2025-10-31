@@ -14,7 +14,7 @@ def load_data()
         return data
 
 def save_data(data):
-    with open("office.json", "w") as f:
+    with open("students_detail.json", "w") as f:
         json.dump(data, f, indent=4)
 
 
@@ -55,3 +55,4 @@ def post_data(student_id: Api):
 
             },
         )
+
